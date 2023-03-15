@@ -1,0 +1,12 @@
+div {
+    background:blue;
+    color:white;
+    margin: 1px;
+    display: inline;
+}
+
+img{
+    float: none;
+    width: 300px;
+}
+

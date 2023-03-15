@@ -1,0 +1,19 @@
+body{
+    background-color: #aaa;
+    background-position: center center;
+    text-align: center;
+}
+
+#div1 {
+    max-width: 1200px;
+    margin: 50px auto;
+    background-color: rgba(134, 134, 134, 0.8);
+    padding: 75px 0px;
+}
+
+#div2 {
+    background-color: lightgrey;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 75px 0px;
+}

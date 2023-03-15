@@ -1,0 +1,13 @@
+h1{
+    margin: auto;
+    width: 300px;
+    background-color:lightblue ;
+}
+#p1{
+    padding: 25px 50px;
+    background-color:lightblue ;
+}
+#p2{
+    padding: 50px;
+    background-color:lightblue ;
+}

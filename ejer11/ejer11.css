@@ -1,0 +1,10 @@
+body{
+    background-image: url(sheep.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#red{
+    color: red;
+}

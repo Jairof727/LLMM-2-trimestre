@@ -1,0 +1,9 @@
+#first {
+    background-image: url(fondo.jpg);
+    background-size: auto;
+}
+
+#secod {
+    background-image: url(fondo.jpg);
+    background-size: 300px 100px;
+}

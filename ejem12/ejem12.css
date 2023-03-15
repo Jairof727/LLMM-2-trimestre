@@ -1,0 +1,15 @@
+#tom1 {
+    background-color: rgb(255, 99, 71);
+}
+#tom2 {
+    background-color: #ff6347;
+}
+#tom3 {
+    background-color: hsl(9, 100%, 64%);
+}
+#tom4 {
+    background-color: rgba(255, 99, 71, 0.5);;
+}
+#tom5 {
+    background-color: hsla(9, 100%, 64%, 0.5);
+}

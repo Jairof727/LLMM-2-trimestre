@@ -1,0 +1,37 @@
+#yellow{
+    text-align: center;
+    background-color: yellow;
+    border: 3px solid black;
+    max-width: 700px;
+    color: black;
+}
+#blue{
+    text-align: center;
+    background-color: cyan;
+    border: 3px solid black;
+    max-width: 400px;
+    color: black;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+
+#green{
+    text-align: center;
+    background-color: green;
+    border: 3px solid black;
+    max-width: 500px;
+    color: black;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+
+}
+
+#orange{
+    text-align: center;
+    background-color: orange;
+    border: 3px solid black;
+    max-width: 700px;
+    color: black;
+}

@@ -1,0 +1,27 @@
+#red {
+    border: 6px solid red;
+}
+#blue{
+    border: 3px solid blue;
+}
+#yellow{
+    border: 2px solid yellow;
+}
+#dotted {
+    border-top: 3px dotted red;
+    border-bottom: 3px dotted blue;
+    border-left: 3px dotted yellow;
+    border-right: 3px dotted green;
+}
+#doble {
+    border: 18px double black;
+}
+#bolef {
+    border: 5px double black;
+}
+#gord {
+    border-bottom: 5px solid black;
+    border-top: 2px solid black;
+    border-left: 20px solid black;
+    border-right: 5px solid black;
+}

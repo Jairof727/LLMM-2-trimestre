@@ -1,0 +1,10 @@
+body{
+    background-image: url(sheep.png);
+    background-repeat: no-repeat ;
+    background-position: 75% 50%;
+    border: 1px solid black;
+}
+
+p{
+    color: red;
+}
