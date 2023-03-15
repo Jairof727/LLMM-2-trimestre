@@ -1,0 +1,45 @@
+body{
+    position: absolute;
+    left: 25%;
+}
+#div1{
+    background-color: #d0cc9c;
+    text-align: center;
+    border: 5px solid black;
+    max-width: 800px;
+}
+
+#blue{
+
+    background-color:  #d0cc9c;
+    border: 5px solid black;
+    max-width: 800px;
+    color: black;
+}
+
+#black{
+
+    background-color:  #d0cc9c;
+    border: 5px solid black;
+    max-width: 800px;
+    color: black;
+
+}
+
+#grey{
+
+    background-color:  #d0cc9c;
+    border: 5px solid black;
+    max-width: 800px;
+    color: black;
+}
+
+#img1 {
+    float:left;
+}
+#img2 {
+    float:right;
+}
+#img3 {
+    float:right;
+}

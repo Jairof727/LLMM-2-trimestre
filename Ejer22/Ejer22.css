@@ -1,0 +1,11 @@
+div{
+    border: 2px solid black;
+    width: 500px;
+}
+
+img{
+    background-color: lightgrey;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}

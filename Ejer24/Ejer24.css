@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+
+div{
+    background-color: lightgrey;
+    position: fixed;
+    width: 300px;
+}
